@@ -1,3 +1,4 @@
 vless://c09cfd91-b234-4998-9bed-a0211b7f5c3c@31.76.62.226:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=lv2.yservice.help&fp=firefox&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234&type=tcp&headerType=none#🇸🇪Швеция 
 vless://49d39628-53cf-554b-a8d7-b31e0069b545@150.241.101.243:443?encryption=none&security=tls&sni=150.241.101.243.fwqfw783rg2dad.website&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fwebsocket%3Fed%3D2560#🇬🇧Британия AI
 vless://ba1df575-79a9-4159-ba6e-c9233595c753@193.233.219.101:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=fast_s96.screw.page&fp=firefox&type=tcp&headerType=none#🇷🇺Ютуб без рекламы 
+vless://568addfa-796a-40f8-820d-a071ee2ca50a@80.76.43.245:443?encryption=none&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&type=xhttp&mode=auto&path=%2F#🇩🇪Германия
