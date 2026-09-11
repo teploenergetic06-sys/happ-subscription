@@ -9,4 +9,5 @@ vless://3c48b5f5-7766-4896-874e-b3ba1860e83a@109.238.95.39:443?flow=xtls-rprx-vi
 vless://568addfa-796a-40f8-820d-a071ee2ca50a@80.76.43.245:443?encryption=none&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&type=xhttp&mode=auto&path=%2F#🇩🇪Германия
 vless://1f61fc64-3113-4a23-9670-a33208026dbc@191.44.33.69:443?encryption=none&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&sid=a8f3c1d7e9b4c2f6&type=xhttp&mode=auto&path=%2Fxhttp-proxy#🇩🇪Германия
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?encryption=none&security=reality&sni=dl.google.com&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇺🇦Украина
-vless://info@0.0.0.0:443?encryption=none&security=none&type=tcp&headerType=none#LTE NOT FOUND📵 
+vless://info@0.0.0.0:443?encryption=none&security=none&type=tcp&headerType=none#LTE 1
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=qq.utiltools.site&fp=qq&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp&headerType=none#🇷🇺 Только ТГ
