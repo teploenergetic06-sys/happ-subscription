@@ -1,0 +1,315 @@
+{
+  "dns": {
+    "queryStrategy": "UseIPv4",
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ]
+  },
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "quic"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    }
+  ],
+  "meta": null,
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "eu-west-nl-6.hanvpn.biz",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "d9d0f208-d582-41d5-bb7b-742671402810"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "fingerprint": "chrome",
+          "publicKey": "6u5MsvuynzH1dEb7TQ6EJpwApl2Et4yset4cQu8sRD0",
+          "serverName": "eu-west-nl-6.hanvpn.biz",
+          "shortId": "2e59d0dc64e92555",
+          "spiderX": ""
+        },
+        "security": "reality"
+      },
+      "tag": "🇳🇱 Нидерланды — Dronten"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "94.183.208.158",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "d2aeb078-90db-4f90-b334-623bcbea8d31"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "fingerprint": "firefox",
+          "publicKey": "qJzNbNVsTx5TLS9d-0kygrHnUSv1vhzTZLn5a192JU0",
+          "serverName": "cdnjs.cloudflare.com",
+          "shortId": "e018b609c12facbe",
+          "spiderX": ""
+        },
+        "security": "reality"
+      },
+      "tag": "🇳🇱 Нидерланды — Eygelshoven"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "vs-nl9.vibesignal.space",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "d2aeb078-90db-4f90-b334-623bcbea8d31"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "fingerprint": "edge",
+          "publicKey": "qJzNbNVsTx5TLS9d-0kygrHnUSv1vhzTZLn5a192JU0",
+          "serverName": "cdnjs.cloudflare.com",
+          "shortId": "e018b609c12facbe",
+          "spiderX": ""
+        },
+        "security": "reality"
+      },
+      "tag": "🇳🇱 Нидерланды — Eygelshoven #2"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "vs-nl9.vibesignal.space",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "d2aeb078-90db-4f90-b334-623bcbea8d31"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "fingerprint": "edge",
+          "publicKey": "qJzNbNVsTx5TLS9d-0kygrHnUSv1vhzTZLn5a192JU0",
+          "serverName": "cdnjs.cloudflare.com",
+          "shortId": "e018b609c12facbe",
+          "spiderX": ""
+        },
+        "security": "reality"
+      },
+      "tag": "🇳🇱 Нидерланды — Eygelshoven #3"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "31.76.8.192",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "b89196b1-7b72-4b81-83d0-e4d4df79f678"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "fingerprint": "firefox",
+          "publicKey": "PedRm9kq-9CQ4f9Wr1utMyCf1V3qUXH_IeCBBMhy8z0",
+          "serverName": "fi.yabloko.top",
+          "shortId": "e07824f6b1be0b82",
+          "spiderX": ""
+        },
+        "security": "reality"
+      },
+      "tag": "🇫🇮 Финляндия — Helsinki"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "185.141.227.155",
+            "port": 20002,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "2b3e8750-b944-42fc-b36e-ec2c64b48a98"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "fingerprint": "firefox",
+          "publicKey": "_ilhBTibNauMOEUqylnlBAUTYiqHHtmEDXkx18SHCR4",
+          "serverName": "pool.dataroute.biz",
+          "shortId": "",
+          "spiderX": "/"
+        },
+        "security": "reality"
+      },
+      "tag": "🇵🇱 Польша — Warsaw"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "cdn7tw.goonars.com",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "02722550-1915-4629-a653-cbe95e594f70"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "fingerprint": "firefox",
+          "publicKey": "xh_QDA_3avhlauOCH2U5HLlTmuDNPQVe_tS-DV3XQWY",
+          "serverName": "apitw2.goonars.com",
+          "shortId": "d026eb55",
+          "spiderX": "/"
+        },
+        "security": "reality"
+      },
+      "tag": "🇳🇱  Netherlands  [11]  MIFA"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "87.251.17.12",
+            "port": 2053,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "4550993c-2191-493a-a612-aaba4a4ec083"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "fingerprint": "chrome",
+          "publicKey": "f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y",
+          "serverName": "www.samsung.com",
+          "shortId": "cc981b746a300649",
+          "spiderX": ""
+        },
+        "security": "reality"
+      },
+      "tag": "🇫🇮  Finland  [03]  MIFA"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    }
+  ],
+  "remarks": "🇳🇱 Нидерланды",
+  "routing": {
+    "balancers": [
+      {
+        "selector": [
+          "🇳🇱 Нидерланды — Dronten",
+          "🇳🇱 Нидерланды — Eygelshoven",
+          "🇳🇱 Нидерланды — Eygelshoven #2",
+          "🇳🇱 Нидерланды — Eygelshoven #3",
+          "🇫🇮 Финляндия — Helsinki",
+          "🇵🇱 Польша — Warsaw",
+          "🇳🇱  Netherlands  [11]  MIFA",
+          "🇫🇮  Finland  [03]  MIFA"
+        ],
+        "tag": "balancer"
+      }
+    ],
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "balancerTag": "balancer",
+        "inboundTag": [
+          "socks"
+        ],
+        "port": "0-65535"
+      }
+    ]
+  }
+}
