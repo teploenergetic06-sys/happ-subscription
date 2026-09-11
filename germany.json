@@ -1,0 +1,359 @@
+{
+  "dns": {
+    "queryStrategy": "UseIPv4",
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ]
+  },
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "quic"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    }
+  ],
+  "meta": null,
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "ovk6lv4rlvi.vpvr4ib84nuv6hdkt.ru",
+            "port": 3077,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "d9d0f208-d582-41d5-bb7b-742671402810"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "fingerprint": "firefox",
+          "publicKey": "55EPC2M4lsZa2xGFgu1s5fuXRLF8xDSmv6SJ8P0Neyo",
+          "serverName": "ovk6lv4rlvi.vpvr4ib84nuv6hdkt.ru",
+          "shortId": "51f694530119d04d",
+          "spiderX": ""
+        },
+        "security": "reality"
+      },
+      "tag": "🇩🇪 Германия 🔥 "
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "94.183.209.33",
+            "port": 8443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "f4ba862a-4d64-431a-9213-dd7aaafd476a"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "fingerprint": "firefox",
+          "publicKey": "S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk",
+          "serverName": "timeline.www.cloudflare.com",
+          "shortId": "bafa6f22a3",
+          "spiderX": "/zsncv2tq91fyune"
+        },
+        "security": "reality"
+      },
+      "tag": "🇵🇱 Польша — Wyszków"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "94.183.209.33",
+            "port": 8443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "f4ba862a-4d64-431a-9213-dd7aaafd476a"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "fingerprint": "firefox",
+          "publicKey": "S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk",
+          "serverName": "timeline.www.cloudflare.com",
+          "shortId": "bafa6f22a3",
+          "spiderX": ""
+        },
+        "security": "reality"
+      },
+      "tag": "🇵🇱 Польша — Wyszków #2"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "eu-west-nl-6.hanvpn.biz",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "d9d0f208-d582-41d5-bb7b-742671402810"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "fingerprint": "chrome",
+          "publicKey": "6u5MsvuynzH1dEb7TQ6EJpwApl2Et4yset4cQu8sRD0",
+          "serverName": "eu-west-nl-6.hanvpn.biz",
+          "shortId": "2e59d0dc64e92555",
+          "spiderX": ""
+        },
+        "security": "reality"
+      },
+      "tag": "🇳🇱 Нидерланды — Dronten"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "213.176.77.138",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "5e666f1f-a7a4-4495-a220-98b5e588cf3b"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "fingerprint": "firefox",
+          "publicKey": "5yLzbmk8NAd12p-0Uu5WI7PjSLFbNScOZ5SmMWQ6txQ",
+          "serverName": "de1.boutique-hotel1108.ru",
+          "shortId": "",
+          "spiderX": ""
+        },
+        "security": "reality"
+      },
+      "tag": "🇩🇪 Германия — Frankfurt am Main #2"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "80.76.43.245",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "568addfa-796a-40f8-820d-a071ee2ca50a"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "realitySettings": {
+          "fingerprint": "qq",
+          "publicKey": "sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE",
+          "serverName": "www.google.com",
+          "shortId": "",
+          "spiderX": ""
+        },
+        "security": "reality",
+        "xhttpSettings": {
+          "host": "",
+          "mode": "auto",
+          "path": "/"
+        }
+      },
+      "tag": "🇩🇪  Germany  [03]  MIFA"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "2.27.59.255",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "5edbcb44-8d04-4fa7-a587-bc5d60c24ca1"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": [
+            "h2",
+            " http/1.1"
+          ],
+          "fingerprint": "firefox",
+          "serverName": "et-ger.letsgodance.site"
+        },
+        "xhttpSettings": {
+          "host": "et-ger.letsgodance.site",
+          "mode": "auto",
+          "path": "/xh"
+        }
+      },
+      "tag": "🇩🇪  Germany  [02]  MIFA"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "194.58.41.39",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "568addfa-796a-40f8-820d-a071ee2ca50a"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "realitySettings": {
+          "fingerprint": "firefox",
+          "publicKey": "sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE",
+          "serverName": "www.google.com",
+          "shortId": "",
+          "spiderX": ""
+        },
+        "security": "reality",
+        "xhttpSettings": {
+          "host": "",
+          "mode": "auto",
+          "path": "/"
+        }
+      },
+      "tag": "🇩🇪  Germany  [04]  MIFA"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "31.76.119.63",
+            "port": 47010,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "fingerprint": "firefox",
+          "publicKey": "-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo",
+          "serverName": "akamai.com",
+          "shortId": "",
+          "spiderX": ""
+        },
+        "security": "reality"
+      },
+      "tag": "🇩🇪  Germany  [05]  MIFA"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    }
+  ],
+  "remarks": "🇩🇪 Германия🔥",
+  "routing": {
+    "balancers": [
+      {
+        "selector": [
+          "🇩🇪 Германия — Frankfurt am Main",
+          "🇵🇱 Польша — Wyszków",
+          "🇵🇱 Польша — Wyszków #2",
+          "🇳🇱 Нидерланды — Dronten",
+          "🇩🇪 Германия — Frankfurt am Main #2",
+          "🇩🇪  Germany  [03]  MIFA",
+          "🇩🇪  Germany  [02]  MIFA",
+          "🇩🇪  Germany  [04]  MIFA",
+          "🇩🇪  Germany  [05]  MIFA"
+        ],
+        "tag": "balancer"
+      }
+    ],
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "balancerTag": "balancer",
+        "inboundTag": [
+          "socks"
+        ],
+        "port": "0-65535"
+      }
+    ]
+  }
+}
