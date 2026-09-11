@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "name": "HAPP VPN Subscription",
+  "description": "European VPN servers configuration",
+  "configs": [
+    {
+      "name": "🇩🇪 Германия",
+      "description": "Multiple German servers with different protocols",
+      "url": "https://raw.githubusercontent.com/teploenergetic06-sys/happ-subscription/main/configs/germany.json"
+    },
+    {
+      "name": "🇳🇱 Нидерланды",
+      "description": "Netherlands server with VLESS/TCP/REALITY",
+      "url": "https://raw.githubusercontent.com/teploenergetic06-sys/happ-subscription/main/configs/netherlands.json"
+    }
+  ],
+  "lastUpdate": "2026-09-11",
+  "updateFrequency": "weekly"
+}
