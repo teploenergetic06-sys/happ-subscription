@@ -1,20 +1,6 @@
-#profile-title: Моя подписка
+#profile-title: NDSPK VPN
 #profile-update-interval: 1
 #subscription-auto-update-open-enable: 1
-
-vless://info@0.0.0.0:443?encryption=none&security=none&type=tcp&headerType=none#СЕРВЕРА МОГУТ БЫТЬ НА ТЕХ.РАБОТАХ
-vless://info@0.0.0.0:443?encryption=none&security=none&type=tcp&headerType=none#ОБНОВЛЕНИЕ 4 ЧАСА
-vless://c09cfd91-b234-4998-9bed-a0211b7f5c3c@31.76.62.226:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=lv2.yservice.help&fp=firefox&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234&type=tcp&headerType=none#🇺🇸США
-vless://568addfa-796a-40f8-820d-a071ee2ca50a@95.85.253.208:443?encryption=none&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&type=xhttp&mode=auto&path=%2F#🇵🇱Польша 
-vless://f4ba862a-4d64-431a-9213-dd7aaafd476a@94.183.209.33:8443?encryption=none&security=reality&sni=timeline.www.cloudflare.com&fp=firefox&pbk=S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk&sid=bafa6f22a3&spx=%2Fzsncv2tq91fyune&type=tcp&headerType=none#🇵🇱Польша 
-vless://c09cfd91-b234-4998-9bed-a0211b7f5c3c@31.76.62.226:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=lv2.yservice.help&fp=firefox&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234&type=tcp&headerType=none#🇸🇪Швеция 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@hubby.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=hubby.failspace.top&alpn=h2&fp=firefox&type=tcp&headerType=none#🇬🇧Британия AI
-vless://3c48b5f5-7766-4896-874e-b3ba1860e83a@109.238.95.39:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=w-mebel.pro&fp=firefox&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&sid=c603efb3ddaf633d&type=tcp&headerType=none#🇷🇺Ютуб без Ads
-vless://568addfa-796a-40f8-820d-a071ee2ca50a@80.76.43.245:443?encryption=none&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&type=xhttp&mode=auto&path=%2F#🇩🇪Германия
-vless://1f61fc64-3113-4a23-9670-a33208026dbc@191.44.33.69:443?encryption=none&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&sid=a8f3c1d7e9b4c2f6&type=xhttp&mode=auto&path=%2Fxhttp-proxy#🇩🇪Германия
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?encryption=none&security=reality&sni=dl.google.com&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇺🇦Украина
-vless://info@0.0.0.0:443?encryption=none&security=none&type=tcp&headerType=none#LTE 1
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=qq.utiltools.site&fp=qq&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp&headerType=none#🇷🇺 Только ТГ
 
 vless://info@0.0.0.0:443?encryption=none&security=none&type=tcp&headerType=none#СЕРВЕРА МОГУТ БЫТЬ НА ТЕХ.РАБОТАХ
 vless://info@0.0.0.0:443?encryption=none&security=none&type=tcp&headerType=none#ОБНОВЛЕНИЕ 4 ЧАСА
