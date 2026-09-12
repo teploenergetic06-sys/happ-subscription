@@ -3,7 +3,7 @@
 #subscription-auto-update-open-enable: 1
 
 vless://info@0.0.0.0:443?encryption=none&security=none&type=tcp&headerType=none#СЕРВЕРА МОГУТ БЫТЬ НА ТЕХ.РАБОТАХ
-vless://info@0.0.0.0:443?encryption=none&security=none&type=tcp&headerType=none#ОБНОВЛЕНИЕ 4 ЧАСА
+vless://info@0.0.0.0:443?encryption=none&security=none&type=tcp&headerType=none#тгкhttps://t.me/+zaHNTYVfdltlNWUy
 ss://chacha20-ietf-poly1305:cTAObwg4OWWXkZJQs0ZdgC@31.76.82.131:34260#🇪🇺 ss
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&fm=%7B%7D&sni=msk.frkn.org#🇷🇺 игровой, ss
 vless://d9d0f208-d582-41d5-bb7b-742671402810@212.87.223.71:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=eu-west-nl-5.hanvpn.biz&fp=firefox&pbk=hbC3iY1vomc1WbYJPQ4EjJrxVre5eTBURa-RO9tV9Tw&sid=840533421b43571b&type=tcp&headerType=none#🇺🇸США
