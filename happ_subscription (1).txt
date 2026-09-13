@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-auto-update-open-enable: 1
 #hide-settings: 1
+#support-url: https://t.me/+zaHNTYVfdltlNWUy
 
 vless://info@0.0.0.0:443?encryption=none&security=none&type=tcp&headerType=none#СЕРВЕРА МОГУТ БЫТЬ НА ТЕХ.РАБОТАХ
 vless://info@0.0.0.0:443?encryption=none&security=none&type=tcp&headerType=none#тгкhttps://t.me/+zaHNTYVfdltlNWUy
