@@ -1,3 +1,10 @@
+#profile-title: vipSSNDSPK VPN
+#profile-update-interval: 1
+#subscription-auto-update-open-enable: 1
+#hide-settings: 1
+#support-url: https://t.me/+zaHNTYVfdltlNWUy
+#announce: NDSPK VPN 2.X если не работает ОБНОВИТЕ 🔁 🔁 
+
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@94.198.54.132:443?headerType=none&encryption=none&sni=msk.frkn.org#%F0%9F%87%B7%F0%9F%87%BA%20RU-43
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20RU-45
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20RU-46
